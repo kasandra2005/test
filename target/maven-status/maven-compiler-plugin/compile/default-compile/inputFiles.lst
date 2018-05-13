@@ -1,0 +1,11 @@
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/config/WebConfig.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/dao/CatDaoImpl.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/mapper/CatMapper.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/service/CatsService.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/config/WebAppInitializer.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/App.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/controller/CatsController.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/dao/CatDao.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/config/SpringConfig.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/service/CatsServiceImpl.java
+/home/kasandra/IdeaProjects/test/src/main/java/com/kasandra/entity/Cat.java
